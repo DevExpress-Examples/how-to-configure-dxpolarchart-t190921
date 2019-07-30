@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to configure dxPolarChart
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t190921)**
+**[[Run Online]](https://codecentral.devexpress.com/t190921/)**
 <!-- run online end -->
 
 
